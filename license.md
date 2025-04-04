@@ -1,0 +1,1 @@
+This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/) - see the [LICENSE](LICENSE) file for details. You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may not use the material for commercial purposes.
